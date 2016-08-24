@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{9881C3BE-F598-B476-DF18-A96DBA5B7DF4}") = "Shader Forge", "Assembly-CSharp.csproj", "{0B306E7C-E460-F1A5-C936-9B0FED4DDDBA}"
+EndProject
+Project("{9881C3BE-F598-B476-DF18-A96DBA5B7DF4}") = "Shader Forge", "Assembly-CSharp-Editor.csproj", "{AAA4506C-D2B5-5C09-02B3-853FC3495DCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B306E7C-E460-F1A5-C936-9B0FED4DDDBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B306E7C-E460-F1A5-C936-9B0FED4DDDBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B306E7C-E460-F1A5-C936-9B0FED4DDDBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B306E7C-E460-F1A5-C936-9B0FED4DDDBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAA4506C-D2B5-5C09-02B3-853FC3495DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAA4506C-D2B5-5C09-02B3-853FC3495DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAA4506C-D2B5-5C09-02B3-853FC3495DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAA4506C-D2B5-5C09-02B3-853FC3495DCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
